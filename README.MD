@@ -48,7 +48,19 @@ brew install --cask \
 #### plugins
 
 ```shell
-plugins=(git history history-substring-search wd node npm web-search last-working-dir  zsh-autosuggestions  zsh-syntax-highlighting you-should-use)
+plugins=(
+	git 
+	history 
+	history-substring-search 
+	wd 
+	node 
+	npm 
+	web-search 
+	last-working-dir  
+	zsh-autosuggestions  
+	zsh-syntax-highlighting 
+	you-should-use
+)
 ```
 
 - font-jetbrains-mono
