@@ -22,25 +22,25 @@ brew install \
 ```shell
 brew install --cask \
 	1password \
-  arc \
-  chatgpt \
-  fork \
-  google-chrome \
-  iterm2 \
-  keka \
-  orbstack \
-  surge \
-  mos \
-  switchhosts \
-  the-unarchiver \
-  typora \
-  utools \
-  istat-menus \
-  bob \
-  visual-studio-code \
-  xcodes \
-  jetbrains-toolbox \
-  input-source-pro \
+	arc \
+	chatgpt \
+	fork \
+	google-chrome \
+	iterm2 \
+	keka \
+	orbstack \
+	surge \
+	mos \
+	switchhosts \
+	the-unarchiver \
+	typora \
+	utools \
+	istat-menus \
+	bob \
+	visual-studio-code \
+	xcodes \
+	jetbrains-toolbox \
+	input-source-pro \
 ```
 
 ## Terminal
